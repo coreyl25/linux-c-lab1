@@ -1,0 +1,43 @@
+=== Directory Listing Script ===
+Current directory: /workspaces/linux-c-lab1/command-line
+Date: Wed Sep  3 03:17:56 UTC 2025
+
+Files and directories:
+total 28
+drwxrwxrwx+ 4 codespace codespace 4096 Sep  3 03:17 .
+drwxrwxrwx+ 7 codespace root      4096 Sep  3 01:41 ..
+-rw-rw-rw-  1 codespace codespace  149 Sep  3 03:17 advanced-log.txt
+-rwxrwxrwx  1 codespace codespace  281 Sep  3 03:17 auto_dir_list.sh
+drwxrwxrwx+ 2 codespace codespace 4096 Sep  3 01:56 command-line-easy
+drwxrwxrwx+ 2 codespace codespace 4096 Sep  3 02:03 command-line-intermediate
+-rw-rw-rw-  1 codespace codespace   14 Sep  3 01:42 hello-copy.txt.
+
+Directory tree structure:
+.
+├── advanced-log.txt
+├── auto_dir_list.sh
+├── command-line-easy
+│   └── easy-log.txt
+├── command-line-intermediate
+│   ├── count_txt_files.sh
+│   ├── files.txt
+│   ├── intermediate-log.txt
+│   └── secret.txt
+└── hello-copy.txt.
+
+3 directories, 8 files
+.:
+advanced-log.txt
+auto_dir_list.sh
+command-line-easy
+command-line-intermediate
+hello-copy.txt.
+
+./command-line-easy:
+easy-log.txt
+
+./command-line-intermediate:
+count_txt_files.sh
+files.txt
+intermediate-log.txt
+secret.txt

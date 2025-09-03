@@ -1,0 +1,6 @@
+Number of .txt files found: 
+3
+List of .txt files:
+./files.txt
+./intermediate-log.txt
+./secret.txt

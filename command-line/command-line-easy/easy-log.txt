@@ -1,0 +1,10 @@
+mkdir command-line/ shell-scripting/ c-program/
+touch hello.txt
+nano hello.txt
+cp hello.txt hello-copy.txt
+mv hello-copy.txt ../.
+rm hello.txt
+cat ../hello-copy.txt
+man ls
+ls -l
+
